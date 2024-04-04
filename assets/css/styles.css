@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(90deg, lightgray, whitesmoke);
+}
+
+.header {
+    background: linear-gradient(90deg, blue, midnightblue);
+    text-align: center;
+    color: whitesmoke;
+}
+
+.future-forecast {
+    background-color: midnightblue;
+    color: white;
+}
