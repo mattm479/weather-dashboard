@@ -8,7 +8,21 @@ body {
     color: whitesmoke;
 }
 
+.current-forecast {
+    border: 1px solid black;
+}
+
 .future-forecast {
     background-color: midnightblue;
-    color: white;
+    color: whitesmoke;
+}
+
+.current-forecast img {
+    width: 5%;
+    height: auto;
+}
+
+.future-forecast img {
+    width: 15%;
+    height: auto;
 }
